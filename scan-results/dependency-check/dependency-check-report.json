@@ -1,0 +1,34 @@
+{
+  "reportSchema" : "1.1",
+  "scanInfo" : {
+    "engineVersion" : "8.2.1",
+    "dataSource" : [ {
+      "name" : "NVD CVE Checked",
+      "timestamp" : "2024-01-21T14:42:03"
+    }, {
+      "name" : "NVD CVE Modified",
+      "timestamp" : "2024-01-21T14:00:01"
+    }, {
+      "name" : "VersionCheckOn",
+      "timestamp" : "2024-01-21T14:42:08"
+    }, {
+      "name" : "kev.checked",
+      "timestamp" : "1705801330"
+    } ]
+  },
+  "projectInfo" : {
+    "name" : "project with hidden (shaded) json.org vulnerability (CVE-2022-45688)",
+    "groupID" : "scabench",
+    "artifactID" : "jsonorg-fn1",
+    "version" : "1.0-SNAPSHOT",
+    "reportDate" : "2024-01-21T01:42:14.419395Z",
+    "credits" : {
+      "NVD" : "This report contains data retrieved from the National Vulnerability Database: https://nvd.nist.gov",
+      "CISA" : "This report may contain data retrieved from the CISA Known Exploited Vulnerability Catalog: https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "NPM" : "This report may contain data retrieved from the Github Advisory Database (via NPM Audit API): https://github.com/advisories/",
+      "RETIREJS" : "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/",
+      "OSSINDEX" : "This report may contain data retrieved from the Sonatype OSS Index: https://ossindex.sonatype.org"
+    }
+  },
+  "dependencies" : [ ]
+}
